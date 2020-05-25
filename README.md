@@ -1,2 +1,2 @@
 # SEM-UNILAG
-SEM Unilag Repository
+SEM Unilag Website Repository
