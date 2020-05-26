@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2dc997;
+  background: #ed1c24;
   color: #fff;
 }
 
@@ -518,12 +518,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
 }
 
-@media (max-width: 768px) {
-  #about .about-container .title {
-    padding-top: 15px;
-  }
-}
-
 #about .about-container p {
   /*float: center;*/
   line-height: 26px;
@@ -533,48 +527,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
-#about .about-container .icon-box {
-  background: #fff;
-  background-size: cover;
-  padding: 0 0 30px 0;
-}
-
-#about .about-container .icon-box .icon {
-  float: left;
-  background: #fff;
-  width: 64px;
-  height: 64px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-  border-radius: 50%;
-  border: 2px solid #2dc997;
-}
-
-#about .about-container .icon-box .icon i {
-  color: #2dc997;
-  font-size: 24px;
-}
-
-#about .about-container .icon-box .title {
-  margin-left: 80px;
-  font-weight: 500;
-  margin-bottom: 5px;
-  font-size: 18px;
-  text-transform: uppercase;
-}
-
-#about .about-container .icon-box .title a {
-  color: #111;
-}
-
-#about .about-container .icon-box .description {
-  margin-left: 80px;
-  line-height: 24px;
-  font-size: 14px;
-}
 
 /* Services Section - What We Do
 --------------------------------*/
@@ -716,7 +668,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .social-links a:hover {
-  background: #2dc997;
+  background: #ed1c24;
   color: #fff;
 }
 
