@@ -616,6 +616,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 20px;
   margin-bottom: 60px;
   padding: 0px;
+  max-width: calc(100% - 40px);
+  object-fit: cover;
 }
 
 #story1, #story2, #story3 {
@@ -646,11 +648,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
+  height: 300px;
 }
 
 #team .member .pic img {
-  max-width: 100%;
+  width: 400px;
 }
 
 #team .member h4 {
