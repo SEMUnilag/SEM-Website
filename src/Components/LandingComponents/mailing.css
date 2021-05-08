@@ -1,0 +1,45 @@
+.mailing-container {
+    padding: 0 10% 2rem;
+}
+.mailing-ttl {
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 700;
+}
+.mailing-txt {
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+}
+.mailing-input {
+    margin: 1.5rem auto;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.mailing-input-field {
+    height: 40px;
+    color: black;
+    width: 280px;
+    background: #c4c4c4;
+    border-radius: 4px;
+    border: 1px solid #c4c4c4;
+    padding-left: 10px;
+}
+.mailing-input-field::placeholder {
+    color: #000;
+    font-size: 15px;
+}
+.mailing-input-btn {
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 4px;
+    color: #ffffff;
+    background: #841713;
+    border: 1px solid #841713;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    min-width: 120px;
+}

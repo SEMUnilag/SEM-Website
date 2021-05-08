@@ -1,0 +1,19 @@
+.partners-container {
+    padding: 1rem 10% 4rem;
+}
+.partners-ttl {
+    color: #000;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+.partners-list {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 2.5rem;
+}
+.partners-list-logo {
+    transform: scale(0.8);
+}

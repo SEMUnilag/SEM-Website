@@ -1,0 +1,29 @@
+.project-container .blog-sec {
+    padding-bottom: 1rem;
+}
+.blog-list {
+    position: relative;
+    max-width: 33%;
+}
+.blog-content {
+    display: block;
+    position: absolute;
+    bottom: 1rem;
+}
+.blog-list-content-txt {
+    width: unset;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    padding-top: 4px;
+}
+.blog-content-img {
+    max-width: 250px;
+}
+.blog-seeall {
+    margin-right: 0;
+    margin-left: auto;
+    color: #fff;
+    margin-top: 1rem;
+    font-size: 15px;
+}

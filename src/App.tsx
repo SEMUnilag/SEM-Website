@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Switch, Route, BrowserRouter, Redirect } from "react-router-dom";
 import "./App.css";
-import Hero from "./Components/Hero/Hero";
+import Landing from "./Components/Landing";
 
 
 class App extends Component {
@@ -11,7 +11,7 @@ class App extends Component {
         <div>
           <BrowserRouter>
             <Switch>
-              <Route exact path="/" component={Hero} />
+              <Route exact path="/" component={Landing} />
             </Switch>
           </BrowserRouter>
         </div>

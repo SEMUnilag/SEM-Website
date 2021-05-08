@@ -1,0 +1,50 @@
+.navbar {
+    background: #000000;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+.navbar-desktop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 8%;
+    padding-right: 8%;
+    color: #fff;
+    align-items: center;
+}
+.sem-logotxt {
+    font-weight: 700;
+    margin: 0 3px;
+    letter-spacing: 0.2px;
+}
+.sem-logotxt-2 {
+    color: #F6BB31;
+    margin-left: 3px;
+}
+.sem-navitems {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+.sem-navitems span {
+    cursor: pointer;
+}
+.sem-navitems span:hover {
+    transform: scale(1.1);
+}
+.sem-navbtn {
+    background: #F6BB31;
+    border: 1px solid #F6BB31;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 35px;
+    padding: 0 15px;
+}
+.sem-navbtn {
+    transform: scale(1.1);
+}

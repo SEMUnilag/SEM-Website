@@ -1,0 +1,75 @@
+.hero-container {
+    color: #fff;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background: #000000;
+}
+.hero-row {
+    padding: 0 9%;
+}
+.hero-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero-txt1 {
+    font-weight: 900;
+    letter-spacing: 0.5px;
+}
+.hero-txt2 {
+    font-weight: 300;
+    max-width: 400px;
+    margin-top: 1rem;
+    font-size: 15px;
+}
+.hero-txt2 span {
+    margin-top: 5px;
+    display: block;
+}
+.hero-input {
+    height: 40px;
+    background: #c4c4c4;
+    color: #000000;
+    border: 1px solid #c4c4c4;
+    margin-right: 1rem;
+    width: 60%;
+    border-radius: 4px;
+    padding-left: 10px;
+    font-size: 15px;
+    min-width: 250px;
+}
+.hero-input::placeholder {
+    color: #000;
+}
+.hero-btn {
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 4px;
+    color: #ffffff;
+    background: #841713;
+    border: 1px solid #841713;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    min-width: 120px;
+}
+.hero-img {
+    width: 100%
+}
+.hero-divider {
+    border-color: #756565;
+    width: 100%;
+}
+.hero-txt3 {
+    width: 100%;
+    color: #756565;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+}
+.hero-txt3 p {
+    margin-bottom: 5px;
+}
+.hero-trophy {
+    width: 20px;
+    margin-right: 5px;
+}

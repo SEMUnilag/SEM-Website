@@ -1,0 +1,64 @@
+.project-container {
+    padding: 2rem 10%;
+    padding-bottom: 3rem;
+}
+.project-sec {
+    background: #D8A52C;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 20px;
+    padding: 2rem 1.5rem 3rem 1.5rem;
+}
+.project-ttl {
+    width: 100%;
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.project-ttl-img {
+    width: 15px;
+    margin-right: 4px;
+}
+.project-list-sec {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.project-list {
+    flex: 50%;
+    max-width: 50%;
+    display: flex;
+}
+.project-list-img {
+    width: 40%;
+}
+.project-list-content {
+    margin-left: 1.5rem;
+    padding-right: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+.project-list-content-ttl {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.project-list-content-txt {
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0.5rem 0;
+    flex: 65%;
+    width: 200px;
+}
+.project-list-content-btn {
+    color: #fff;
+    background: #000;
+    border: 1px solid #000;
+    font-size: 14px;
+    height: 35px;
+    width: 120px;
+    border-radius: 4px;
+    min-height: 35px;
+}
