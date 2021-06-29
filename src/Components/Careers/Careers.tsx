@@ -26,7 +26,12 @@ const Careers = () => {
               <p>Design</p>
               <div className="team-details-dark">
                 <p>Design</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -34,7 +39,12 @@ const Careers = () => {
               <p>Electrical</p>
               <div className="team-details-yellow">
                 <p>Electrical</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -42,7 +52,12 @@ const Careers = () => {
               <p>Fabrication</p>
               <div className="team-details-dark">
                 <p>Fabrication</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -50,7 +65,12 @@ const Careers = () => {
               <p>Materials</p>
               <div className="team-details-yellow">
                 <p>Materials</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -63,7 +83,12 @@ const Careers = () => {
               <p>Administration</p>
               <div className="team-details-yellow">
                 <p>Administration</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -71,7 +96,12 @@ const Careers = () => {
               <p>Communication</p>
               <div className="team-details-dark">
                 <p>Communication</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -79,7 +109,12 @@ const Careers = () => {
               <p>Partnership</p>
               <div className="team-details-yellow">
                 <p>Partnership</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>
@@ -87,7 +122,12 @@ const Careers = () => {
               <p>Quality and Control</p>
               <div className="team-details-dark">
                 <p>Quality and Control</p>
-                <p>Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto sed qui maxime accusantium. Earum numquam numquam.Et voluptas libero quos dolorum. Possimus repudiandae mollitia consequuntur architecto consequuntur inventore quasi. </p>
+                <p>
+                  Nulla blanditiis ut laudantium aut nisi et. Qui ex architecto
+                  sed qui maxime accusantium. Earum numquam numquam.Et voluptas
+                  libero quos dolorum. Possimus repudiandae mollitia
+                  consequuntur architecto consequuntur inventore quasi.{" "}
+                </p>
                 <button>Apply to this subteam</button>
               </div>
             </div>

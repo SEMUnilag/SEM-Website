@@ -13,6 +13,7 @@ export const Partners = () => {
         <div className="partners-container">
             <h5 className="partners-ttl">Our Partners Include:</h5>
             <div className="partners-list">
+                <div className="overlay"></div>
                 <img className="partners-list-logo" src={logo1} alt="" />
                 <img className="partners-list-logo" src={logo2} alt="" />
                 <img className="partners-list-logo" src={logo3} alt="" />

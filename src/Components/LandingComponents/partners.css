@@ -12,8 +12,18 @@
     display: flex;
     justify-content: left;
     align-items: center;
-    gap: 2.5rem;
+    position: relative;
+}
+.partners-list img {
+    margin-right: 2.5rem;
 }
 .partners-list-logo {
     transform: scale(0.8);
+}
+.overlay {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    background: rgba(255, 255, 255, 50%);
+    z-index: 2;
 }
