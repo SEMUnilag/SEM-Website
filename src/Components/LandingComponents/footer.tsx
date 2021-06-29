@@ -15,31 +15,17 @@ const Footer = () => {
     return (
         <>
         <div className="footer-container">
-            <div>
+            <span>
                 <img className="footer-img" src={logo} alt="SEM Unilag logo"/>
                 <span className="sem-logotxt"><span>Team</span><span className="sem-logotxt-2">Unilag</span></span>
-            </div>
-            <div className="footer-list">
-                <a>Projects</a>
-                <a>Products</a>
-                <a>Partners</a>
-                <a>Blog</a>
-                <a>Teams</a>
-            </div>
-            <div className="footer-list">
-                <a>About</a>
-                <a>Newsletter</a>
-                <a>Contacts</a>
-                <a>Resources</a>
-                <a>Careers</a>
-            </div>
-            <div className="footer-copyright">
-                <p>&#169; {year} SEM Unilag</p>
-                <p>Terms</p>
-                <p>Privacy</p>
-            </div>
-            <div></div>
-            <div className="footer-socials">
+            </span>
+            <span className="footer-copyright">
+                &#169; {year} SEM Unilag
+            </span>
+            
+            <span>Terms</span>
+                <span>Privacy</span>
+            <span className="footer-socials">
             <i className="fab fa-facebook-f footer-socials-icon"></i>
             <i className="fab fa-medium-m footer-socials-icon"></i>
             <i className="fab fa-linkedin-in footer-socials-icon"></i>
@@ -48,7 +34,7 @@ const Footer = () => {
                 <img src={medium} alt="" />
                 <img src={linkedin} alt="" />
                 <img src={twitter} alt="" /> */}
-            </div>
+            </span>
         </div>
         </>
     )

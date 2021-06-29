@@ -1,0 +1,68 @@
+.awards-container {
+    padding: 6rem 10% 3rem;
+}
+.awards-hd {
+    font-weight: 700;
+    margin-bottom: 2.5rem;
+    font-size: 2.2rem;
+    margin-top: 1rem;
+}
+.awards-ttl {
+    font-weight: 700;
+}
+.awards-1 {
+    display: flex;
+}
+.awards-logo {
+    background: #000;
+    padding: 2rem 0;
+    border-radius: 40px;
+    width: 40%;
+    text-align: center;
+    margin-right: 2rem;
+}
+.awards-logo img {
+    width: 50%;
+}
+.awards-info {
+    width: 60%;
+}
+.awards-info-hd {
+    font-weight: 700;
+}
+.awards-txt {
+    line-height: 26px;
+}
+.awards-descrip {
+    padding: 2rem 0;
+}
+.awards-btn-sec {
+    text-align: center;
+    position: relative;
+}
+.awards-btn {
+    min-width: 260px;
+    background: #000;
+    color: #fff;
+    border: 1px solid #000;
+    padding: 12px 1rem;
+    border-radius: 4px;
+    font-size: 14px;
+    margin: auto;
+}
+.awards-arr {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    top: 10px;
+}
+.caret-dark {
+    top: auto !important;
+    transform: scale(1.4) rotate(-90deg) !important;
+    margin-top: 2rem;
+}
+.caret-1 {
+    right: 23px;
+}

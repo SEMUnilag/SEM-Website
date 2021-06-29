@@ -1,0 +1,145 @@
+.careers-container {
+    padding: 6rem 0 3rem;
+}
+.careers-padd {
+    padding: 0 10%;
+}
+.careers-hd {
+    font-weight: 700;
+    font-size: 2.2rem;
+    margin-top: 1rem;
+}
+.careers-txt {
+
+}
+.careers-team {
+    padding: 2rem 0;
+}
+.careers-team-hd {
+    padding-left: 10%;
+    font-weight: 700;
+}
+.careers-team-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 2rem;
+}
+.careers-team-grid-item {
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+    padding: 1rem 10px;
+}
+.careers-team-grid-item:hover > p {
+    display: none;
+}
+.careers-team-grid-tech > div:nth-child(odd) {
+    color: #fff;
+    background: #000;
+}
+.careers-team-grid-tech > div:nth-child(even) {
+    color: #000;
+    background: #F6BB31;
+}
+.careers-team-grid-nontech > div:nth-child(even) {
+    color: #fff;
+    background: #000;
+}
+.careers-team-grid-nontech > div:nth-child(odd) {
+    color: #000;
+    background: #F6BB31;
+}
+.careers-issues {
+    padding: 2rem 1.5rem;
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 4px 2px rgb(0 0 0 / 25%);
+    border-radius: 25px;
+    margin-top: 2rem;
+}
+.chat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    flex-direction: column;
+    margin-left: 1rem;
+    background: #fff;
+}
+.chat img {
+    width: 40px;
+}
+.chat p {
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.careers-team-grid-item .team-details-dark {
+    display: none;
+    transition: 0.3s;
+}
+.careers-team-grid-item p, .careers-team-grid-item button {
+    transition: 0.3s;
+}
+.careers-team-grid-item:hover .team-details-dark {
+    display: block;
+    transition: 0.3s;
+    font-weight: 400;
+    text-align: center;
+}
+
+.careers-team-grid-item:hover .team-details-dark p:nth-child(1) {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.careers-team-grid-item:hover .team-details-dark p:nth-child(2) {
+    font-size: 15.5px;
+    text-align: left;
+    margin-bottom: 1.5rem;
+}
+.careers-team-grid-item:hover .team-details-dark button {
+    height: 45px;
+    background: transparent;
+    margin: auto;
+    color: #F6BB31;
+    border: 1px solid #F6BB31;
+    border-radius: 4px;
+    padding: 0 2rem;
+    font-size: 15px;
+    width: 85%;
+}
+.careers-team-grid-item .team-details-yellow {
+    display: none;
+    transition: 0.3s;
+}
+.careers-team-grid-item:hover .team-details-yellow {
+    display: block;
+    transition: 0.3s;
+    font-weight: 400;
+    text-align: center;
+    color: #000;
+}
+.careers-team-grid-item:hover .team-details-yellow p:nth-child(1) {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.careers-team-grid-item:hover .team-details-yellow p:nth-child(2) {
+    font-size: 15.5px;
+    text-align: left;
+    margin-bottom: 1.5rem;
+}
+.careers-team-grid-item:hover .team-details-yellow button {
+    height: 45px;
+    background: #000;
+    margin: auto;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 4px;
+    padding: 0 2rem;
+    font-size: 15px;
+    width: 85%;
+}

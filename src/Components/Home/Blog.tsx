@@ -1,6 +1,6 @@
 import * as React from "react";
 import "./Blog.css";
-import "../Projects/Projects.css"
+import "./Projects.css"
 import { Container, Row } from "react-bootstrap";
 import car1 from "../../assets/autonov1.svg";
 import car2 from "../../assets/autonov2.svg";
